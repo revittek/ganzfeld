@@ -11,9 +11,11 @@ var app = {
     	document.body.style.backgroundColor = "white";
     	clearInterval(myVar);
     	$('dial').val(hertz).trigger('change');
+    	this.pauseNoise();
     	},
     okGo: function(val) {
     	console.log(val);
+    	this.playNoise();
     	document.getElementById("valdisplay").style.display = "none";
     	document.getElementById("title").style.visibility = "hidden";
     	document.getElementById("reset").style.display = "block";
@@ -30,5 +32,11 @@ var app = {
     	console.log(hertz);
     	document.getElementById("okgo").innerHTML = hertz+" Hz";
     	this.okGo(hertz);
+    },
+    playNoise: function() {
+    	document.getElementById("whitenoise").play();
+    },
+    pauseNoise: function() {
+    	document.getElementById("whitenoise").pause();
     }
 };
