@@ -11,18 +11,12 @@
         <script type="text/javascript" src="js/index.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script src="js/jquery.knob.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
     </head>
     <body>
     	<div class="app">
     	<h1 id="title">Ganzfeld Generator</h1>
-    	<div class="button" onclick="app.onReset()">
-    	<p id="reset">reset</p>
-    	</div>
     	<div id="knobby">
-    	<input id="myDial" type="text" value="111" class="dial" data-width="80">
+    	<input id="myDial" type="text" value="900" class="dial" data-width="80" data-height="80">
     	<script>
 $(function() {
     $(".dial").knob({
@@ -31,7 +25,7 @@ $(function() {
     'angleOffset':-150,
     'angleArc':300,
     'fgColor':'#333333',
-    'displayInput':true,
+    'displayInput':false,
     'bgColor':'#A9B5B6',
     'thickness':.6,
     'release' : function(v){app.onInput(v);}
@@ -39,5 +33,11 @@ $(function() {
 });
 </script>
     	</div>
+    	<div id="valdisplay" class="button" onclick="app.okGo()">
+    	<p id="okgo"></p></div>
+    	<div class="button" onclick="app.onReset()">
+    	<p id="reset">reset</p>
+    	</div>
+    	<script>app.initialize();</script>
     	</body>
 </html>
