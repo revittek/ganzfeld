@@ -33,12 +33,20 @@ $(function() {
 });
 </script>
     	</div>
-    	<div id="valdisplay" class="button" onclick="app.okGo(9)">
+    	<div id="valdisplay" class="button" onclick="app.okGo('white')">
     	<p id="okgo"></p></div>
     	<div class="button" onclick="app.onReset()">
     	<p id="reset">pause</p>
     	</div>
+    	<div class="button" onclick="app.okGo('pink')">
+    	<p id="pinky">pink</p>
+    	</div>
+    	<div class="button" onclick="app.okGo('brown')">
+    	<p id="browny">brown</p>
+    	</div>
     	<div id="audio"><audio id="whitenoise" src="audio/white_noise.mp3" preload="auto"></audio>
+    	<audio id="pinknoise" src="audio/pink_noise.mp3" preload="auto"></audio>
+    	<audio id="brownnoise" src="audio/brown_noise.mp3" preload="auto"></audio>
     	</div>
     	<script>app.initialize();</script>
     	</body>

@@ -47,3 +47,25 @@ Terminating in response to SpringBoard's termination.
 2014-01-23 15:32:08.335 HelloCordova[7008:18e03] Unlimited access to network resources
 2014-01-23 15:32:08.418 HelloCordova[7008:18e03] Resetting plugins due to page load.
 2014-01-23 15:32:08.666 HelloCordova[7008:18e03] Finished load of: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/index.html
+2014-01-23 15:58:29.610 HelloCordova[7661:18e03] Multi-tasking -> Device: YES, App: YES
+2014-01-23 15:58:29.627 HelloCordova[7661:18e03] Unlimited access to network resources
+2014-01-23 15:58:29.758 HelloCordova[7661:18e03] Resetting plugins due to page load.
+2014-01-23 15:58:32.631 HelloCordova[7661:18e03] Finished load of: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/index.html
+2014-01-23 15:58:52.317 HelloCordova[7899:18e03] Multi-tasking -> Device: YES, App: YES
+2014-01-23 15:58:52.325 HelloCordova[7899:18e03] Unlimited access to network resources
+2014-01-23 15:58:52.499 HelloCordova[7899:18e03] Resetting plugins due to page load.
+2014-01-23 15:58:53.322 HelloCordova[7899:18e03] Finished load of: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/index.html
+2014-01-23 16:32:46.714 HelloCordova[8701:18e03] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:32:46.721 HelloCordova[8701:18e03] Unlimited access to network resources
+2014-01-23 16:32:46.745 HelloCordova[8701:18e03] Resetting plugins due to page load.
+2014-01-23 16:32:47.731 HelloCordova[8701:18e03] Finished load of: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/index.html
+2014-01-23 16:33:23.549 HelloCordova[8701:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/white_noise.mp3
+2014-01-23 16:33:41.926 HelloCordova[8701:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/pink_noise.mp3
+2014-01-23 16:33:46.240 HelloCordova[8701:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/brown_noise.mp3
+2014-01-23 16:42:54.693 HelloCordova[9064:18e03] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:42:54.707 HelloCordova[9064:18e03] Unlimited access to network resources
+2014-01-23 16:42:54.796 HelloCordova[9064:18e03] Resetting plugins due to page load.
+2014-01-23 16:42:55.621 HelloCordova[9064:18e03] Finished load of: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/index.html
+2014-01-23 16:43:21.967 HelloCordova[9064:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/white_noise.mp3
+2014-01-23 16:43:24.439 HelloCordova[9064:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/pink_noise.mp3
+2014-01-23 16:43:27.300 HelloCordova[9064:18e03] setting movie path: file:///Users/kate/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/42363F5D-222A-43F0-8250-C74BBE5661EF/HelloCordova.app/www/audio/brown_noise.mp3
