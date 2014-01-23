@@ -18,6 +18,9 @@
     <body>
     	<div class="app">
     	<h1 id="title">Ganzfeld Generator</h1>
+    	<div class="button" onclick="app.onClickButton()">
+    	<p id="ready">press me</p>
+    	</div>
     	<div class="button" onclick="app.onReset()">
     	<p id="reset">reset</p>
     	</div>
@@ -26,12 +29,12 @@
     	<script>
 $(function() {
     $(".dial").knob({
-    'min':800,
-    'max':1100,
+    'min':91,
+    'max':125.0,
     'angleOffset':-150,
     'angleArc':300,
     'fgColor':'#333333',
-    'displayInput':true,
+    'displayInput':false,
     'bgColor':'#A9B5B6',
     'thickness':.6,
     'release' : function(v){app.onInput(v);}

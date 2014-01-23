@@ -43,16 +43,6 @@ h1 {
     text-align:center;
     line-height:85%;
 }
-#ready {
-    border-radius:4px;
-    -webkit-border-radius:4px;
-    color:#FFFFFF;
-    font-size:12px;
-    margin:0px 30px;
-    padding:2px 0px;
-    background-color:#333333;
-    display:block;
-}
 
 #reset {
     border-radius:4px;
